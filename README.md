@@ -17,7 +17,7 @@ Los repositorios de datos los encontraréis en la carpeta `data`. Allí encontra
 Para participar tendréis que:
 
 1. Hacer un `fork` de este repositorio 
-2. En la carpeta `teams` tenéis instrucciones de cómo trabajar y una plantilla de cómo tenéis que entregar vuestra solución.
+2. En la carpeta [`teams`](teams) tenéis instrucciones de cómo trabajar y una plantilla de cómo tenéis que entregar vuestra solución.
 3. Todo lo que programéis, desarrolléis, preparéis, etc. tiene que ir en la carpeta de vuestro equipo que hay dentro de `teams`.
 4. Cuando queráis entregar la solución sólo tendréis que hacer un `pull request` a este repo.
 
