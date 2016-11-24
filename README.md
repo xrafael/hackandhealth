@@ -10,7 +10,7 @@ Los repositorios de datos los encontraréis en la carpeta `data`. Allí encontra
 
 | Datos OpenData del Ayuntamiento de Terrassa.  | Datos del Consorci Sanitari de Terrassa (CST)  | Datos de la aplicación HealthApp |
 |:------------:|:--------------:|:-----------:|
-| [![](/home/vgonzalez/Projects/hackandhealth/hackandhealth/images/logo_AT.jpg)](data/OpenDataTerrassa) | [![](/home/vgonzalez/Projects/hackandhealth/hackandhealth/images/logo_CST.png)](data/CST) | [![](/home/vgonzalez/Projects/hackandhealth/hackandhealth/images/logo_HealthApp.png)](data/HealthApp) |
+| [![](images/logo_AT.jpg)](data/OpenDataTerrassa) | [![](images/logo_CST.png)](data/CST) | [![](images/logo_HealthApp.png)](data/HealthApp) |
 
 ## Cómo participar
 
