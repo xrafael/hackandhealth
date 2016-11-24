@@ -6,7 +6,7 @@ Aquí encontraréis toda la información necesaria para participar en el evento.
 
 ## Los Datos
 
-Los repositorios de datos los encontraréis en la carpeta `data`. Allí encontraréis datos de 3 organizaciones:
+Los repositorios de datos los encontraréis en la carpeta [`data`](data). Allí encontraréis datos de 3 organizaciones:
 
 | Datos OpenData del Ayuntamiento de Terrassa.  | Datos del Consorci Sanitari de Terrassa (CST)  | Datos de la aplicación HealthApp |
 |:------------:|:--------------:|:-----------:|
