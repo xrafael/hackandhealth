@@ -21,3 +21,10 @@ Para participar tendréis que:
 3. Todo lo que programéis, desarrolléis, preparéis, etc. tiene que ir en la carpeta de vuestro equipo que hay dentro de `teams`.
 4. Cuando queráis entregar la solución sólo tendréis que hacer un `pull request` a este repo.
 
+**Como usar Git**
+
+Si tenéis dudas de como utilizar Git o GitHub, podéis consultar el [manual](usando_git.md) que hemos puesto a vuestra disposición.
+
+## Agenda del evento
+
+Tenéis a vuestra disposición la agenda del evento en [este enlace](Agenda_ES.pdf).
