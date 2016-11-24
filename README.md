@@ -25,6 +25,21 @@ Para participar tendréis que:
 
 Si tenéis dudas de como utilizar Git o GitHub, podéis consultar el [manual](usando_git.md) que hemos puesto a vuestra disposición.
 
+
+## Los Premios
+
+**Premio a la mejor solución técnica:**
+- Entradas para la [Strata conference](http://conferences.oreilly.com/strata/strata-eu) en Londres.
+- 3 Meses [Carto Premium](https://carto.com/)
+
+**Premio a la idea con más proyección empresarial:**
+- Estancia de 9 meses en la incubadora [Kautic Terrassa](http://kautic40.com/)
+- 2 Meses [Carto Premium](https://carto.com/)
+
+**Mención de Honor:**
+- 1 Beca completa para una persona en el [Máster en Open Big Data Management de EUNCET](http://www.euncet.es/master-en-open-big-data-management/)
+- 1 Mes [Carto Premium](https://carto.com/)
+
 ## Agenda del evento
 
 Tenéis a vuestra disposición la agenda del evento en [este enlace](Agenda_ES.pdf).
