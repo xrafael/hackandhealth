@@ -15,3 +15,8 @@ Para participar tendréis que:
     4. Si necesitáis alguna carpeta más, podéis crearla.
 - En el fichero `README.md` de la carpeta de vuestro equipo tendréis que poner las instrucciones necesarias que queráis indicar al jurado (por ejemplo como utilizar vuestra demo, como acceder a ella, etc.).
 - Cuando queráis entregar la solución tendréis que hacer un `pull request` al repositorio principal.
+
+
+---
+![](../images/banner_es.png) 
+![](../images/colaboradores_hack-health.png) 
