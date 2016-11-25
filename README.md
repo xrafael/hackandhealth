@@ -43,3 +43,8 @@ Si tenéis dudas de como utilizar Git o GitHub, podéis consultar el [manual](us
 ## Agenda del evento
 
 Tenéis a vuestra disposición la agenda del evento en [este enlace](Agenda_ES.pdf).
+
+
+
+![](images/banner_es.png) 
+![](images/colaboradores_hack-health.png) 
