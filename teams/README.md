@@ -17,6 +17,11 @@ Para participar tendréis que:
 - Cuando queráis entregar la solución tendréis que hacer un `pull request` al repositorio principal.
 
 
+**IMPORTANTE**: Poned en el `README.md` de vuestra carpeta de equipo:
+- Nombre del equipo
+- Nombre de todos los miembros del equipo
+
+
 ---
 ![](../images/banner_es.png) 
 ![](../images/colaboradores_hack-health.png) 
